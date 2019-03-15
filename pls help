@@ -4,8 +4,7 @@
 #define DATA_PIN 11
 
 CRGB leds[NUM_LEDS];
-int cycles = 5;
-int speed = 10;
+
 
 
 void setup(){
